@@ -1,6 +1,8 @@
 # _metroproject
 
-The repository has been published due to no longer needing it. I did everything manually, so please don't blame me for any bugs if they exist. The reason for doing everything manually was to gain a more in-depth understanding of Minecraft's code. Please do not distribute it.
+The repository was created because I no longer need this code due to a change in the game version of the main repository. The code was necessary for my project, so there are remnants of my presence in it.
+
+If you want to get in touch with me and have a laugh at this cringe: experiments_lain (Discord)
 
 PROGRAM ARGS:
 --version {}
